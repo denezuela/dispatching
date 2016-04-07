@@ -1,4 +1,3 @@
-# dispatching
-just an easy thread app
+# first repository
 
-my first commit
+my first commit 
